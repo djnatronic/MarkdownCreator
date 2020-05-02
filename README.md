@@ -1,12 +1,12 @@
   # Title
   # Description
   ## Table of Contents
-1. [Introduction](#Installationn)
-2. [Some paragraph](#Usage)
-3. [Sub paragraph](#License)
-4. [Another paragraph](#Contributing)
-4. [Another paragraph](#Tests)
-4. [Another paragraph](#Questions)
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [License](#License)
+4. [Contributing](#Contributing)
+4. [Tests](#Tests)
+4. [Questions](#Questions)
 
 ## Installation <a name="Installation"></a>
 
