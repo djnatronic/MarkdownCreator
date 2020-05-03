@@ -53,10 +53,10 @@ inquirer
 
 
     const readme = `
-    # Title: ${response.title}
-    # Description
-    ${response.description}
-    ## Table of Contents
+  # Title: ${response.title}
+  # Description
+  ${response.description}
+  ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
   3. [License](#License)
