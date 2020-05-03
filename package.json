@@ -1,0 +1,22 @@
+{
+  "name": "markdowncreator",
+  "version": "1.0.0",
+  "description": "Answer questions to create project markdown readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djnatronic/MarkdownCreator.git"
+  },
+  "author": "Nathan Bowdish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djnatronic/MarkdownCreator/issues"
+  },
+  "homepage": "https://github.com/djnatronic/MarkdownCreator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
