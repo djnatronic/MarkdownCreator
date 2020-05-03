@@ -78,7 +78,7 @@ inquirer
   ## Installation <a name="Installation"></a>
   ${response.Installation}
   ## Usage <a name="Usage"></a>
-  ${response.usage}
+  ${response.Usage}
   ## License <a name="License"></a>
   ${license}
   ## Contributing <a name="Contributing"></a>

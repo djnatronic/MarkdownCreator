@@ -11,11 +11,11 @@
   # Title
   Markdown Creator
   # Description
-  Create Markdown files with no code
+  Create github markdown profile with zero code
   ## Installation <a name="Installation"></a>
   git clone https://github.com/djnatronic/MarkdownCreator.git
   ## Usage <a name="Usage"></a>
-  undefined
+  node index.js
   ## License <a name="License"></a>
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
   ## Contributing <a name="Contributing"></a>
