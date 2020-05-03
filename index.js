@@ -53,9 +53,7 @@ inquirer
 
 
     const readme = `
-  # Title: ${response.title}
-  # Description
-  ${response.description}
+ 
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
@@ -64,6 +62,9 @@ inquirer
   4. [Tests](#Tests)
   4. [Questions](#Questions)
   
+  # Title: ${response.title}
+  # Description
+  ${response.description}
   ## Installation <a name="Installation"></a>
   ${response.Installation}
   ## Usage <a name="Usage"></a>
