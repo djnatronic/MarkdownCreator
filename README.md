@@ -9,11 +9,11 @@
   4. [Questions](#Questions)
 
   # Title
-  Markdown Project
+  Markdown Creator
   # Description
-  Creates markdown from questions
+  Create Markdown files with no code
   ## Installation <a name="Installation"></a>
-  git clone
+  git clone https://github.com/djnatronic/MarkdownCreator.git
   ## Usage <a name="Usage"></a>
   undefined
   ## License <a name="License"></a>
@@ -23,7 +23,7 @@
   ## Tests <a name="Tests"></a>
   N/A
   ## Questions <a name="Questions"></a>
-  How can I expand it further?
+  How can I expand this in the future?
 
 
   #### Created with Nathan's Markdow Creator
